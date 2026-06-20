@@ -1,0 +1,11 @@
+Network connectivity issues can affect application performance.
+
+Troubleshooting steps:
+
+1. Verify internet connectivity.
+2. Check firewall settings.
+3. Confirm DNS resolution.
+4. Restart networking equipment.
+5. Retry the operation.
+
+Persistent issues should be escalated to the network support team.

@@ -1,0 +1,16 @@
+Login failures may occur for several reasons.
+
+Common causes:
+
+* Incorrect username or password
+* Expired session
+* Browser cache issues
+* Disabled account
+
+Troubleshooting steps:
+
+1. Reset the password.
+2. Clear browser cache.
+3. Try an incognito window.
+4. Restart the browser.
+5. Contact support if the issue persists.

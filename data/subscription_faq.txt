@@ -1,0 +1,9 @@
+Subscription FAQ
+
+Customers can upgrade or downgrade plans from the account dashboard.
+
+Plan changes typically take effect at the next billing cycle.
+
+Invoices and payment history can be accessed from the billing section.
+
+Subscription cancellations must be requested before the next billing date.

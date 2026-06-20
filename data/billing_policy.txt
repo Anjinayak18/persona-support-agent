@@ -1,0 +1,9 @@
+Billing charges are processed monthly.
+
+Customers can view invoices from the billing dashboard.
+
+Duplicate charges should be reported within 30 days.
+
+Billing disputes are reviewed manually by the finance team.
+
+Most billing investigations are completed within 3 to 5 business days.
